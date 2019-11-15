@@ -1,0 +1,10 @@
+C:\Users\Kees\source\repos\ChessBoardGame\ChessBoardGame\bin\Debug\ChessBoardGame.exe.config
+C:\Users\Kees\source\repos\ChessBoardGame\ChessBoardGame\bin\Debug\ChessBoardGame.exe
+C:\Users\Kees\source\repos\ChessBoardGame\ChessBoardGame\bin\Debug\ChessBoardGame.pdb
+C:\Users\Kees\source\repos\ChessBoardGame\ChessBoardGame\obj\Debug\ChessBoardGame.csprojAssemblyReference.cache
+C:\Users\Kees\source\repos\ChessBoardGame\ChessBoardGame\obj\Debug\ChessBoardGame.Properties.Resources.resources
+C:\Users\Kees\source\repos\ChessBoardGame\ChessBoardGame\obj\Debug\ChessBoardGame.csproj.GenerateResource.cache
+C:\Users\Kees\source\repos\ChessBoardGame\ChessBoardGame\obj\Debug\ChessBoardGame.csproj.CoreCompileInputs.cache
+C:\Users\Kees\source\repos\ChessBoardGame\ChessBoardGame\obj\Debug\ChessBoardGame.exe
+C:\Users\Kees\source\repos\ChessBoardGame\ChessBoardGame\obj\Debug\ChessBoardGame.pdb
+C:\Users\Kees\source\repos\ChessBoardGame\ChessBoardGame\obj\Debug\ChessBoardGame.ChessBoard.resources
